@@ -5,4 +5,3 @@ Hallo team
 I am excited to start this new project
 adding some artcles in the main page
 
-attempt to use another command
